@@ -18,7 +18,7 @@ DawnCraft — это эпичная модифицированная сборк�
 
 Убедись, что у тебя уже установлена сборка DawnCraft (лучше через CurseForge или Prism Launcher).
 
- 1. Скачай последнюю версию русификатора 
+ 1. Скачай последнюю версию русификатора  https://github.com/Malvinallo/DawnCraft-Russian-lang/raw/refs/heads/main/DawnCraft%20rus%202.0.15.7z
  2. Перейди в папку сборки:
  • Если CurseForge: ...\curseforge\minecraft\Instances\DawnCraft\
  • Если Prism: ...\PrismLauncher\instances\DawnCraft\
